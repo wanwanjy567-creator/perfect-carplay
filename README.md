@@ -19,7 +19,7 @@
 
 * `index.tsx`：`tscircuit` PCB 设计源码
 * `gerber/`：嘉立创打板附件
-工程视图：
-<img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/03a87976-5d2f-41ce-9db1-537c4d6db190" />
-<img width="789" height="585" alt="image" src="https://github.com/user-attachments/assets/0dfe9be9-2bbe-4194-b874-6898243d8989" />
-<img width="1269" height="588" alt="image" src="https://github.com/user-attachments/assets/a4b9a307-31be-4b79-9b0a-59a2d376dbcc" />
+
+### 工程视图
+
+<img width="260" alt="3D 视图" src="https://github.com/user-attachments/assets/03a87976-5d2f-41ce-9db1-537c4d6db190" /> <img width="260" alt="PCB 视图" src="https://github.com/user-attachments/assets/0dfe9be9-2bbe-4194-b874-6898243d8989" /> <img width="260" alt="原理图视图" src="https://github.com/user-attachments/assets/a4b9a307-31be-4b79-9b0a-59a2d376dbcc" />
