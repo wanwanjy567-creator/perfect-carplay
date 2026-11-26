@@ -1,6 +1,9 @@
 # 帕萨特 iPhone 11 无线 CarPlay 供电底板（TPS5450 5V / 4.2V）
 
 用于大众帕萨特车内隐蔽安装 **iPhone 11** 作为专用无线 CarPlay 主机：解决原车 USB 供电不足导致的重启问题，实现**上车 12V 自动通电开机、熄火自动断电**。
+<img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/03a87976-5d2f-41ce-9db1-537c4d6db190" />
+<img width="789" height="585" alt="image" src="https://github.com/user-attachments/assets/0dfe9be9-2bbe-4194-b874-6898243d8989" />
+<img width="1269" height="588" alt="image" src="https://github.com/user-attachments/assets/a4b9a307-31be-4b79-9b0a-59a2d376dbcc" />
 
 ## 硬件方案说明
 
